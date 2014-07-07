@@ -1,5 +1,9 @@
 # Step 1 – Creating the World
 
+Next step – [Shooting ball](./tree/master/02-shootind-ball)
+
+* * *
+
 This is the first step......
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, suscipit est voluptatem ducimus necessitatibus? Tempora, itaque, adipisci necessitatibus veniam vero placeat dolor eius alias autem nostrum at incidunt dolorem aut.
