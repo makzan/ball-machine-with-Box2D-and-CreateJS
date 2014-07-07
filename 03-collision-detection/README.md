@@ -1,6 +1,6 @@
 # Step 3 – Collision Detection
 
-Prev Step – [Shooting ball](//github.com/makzan/github-as-tutorial-take-2/tree/master/02-shootind-ball)
+Prev Step – [Shooting ball](//github.com/makzan/github-as-tutorial-take-2/tree/master/02-shooting-ball)
 
 * * *
 
