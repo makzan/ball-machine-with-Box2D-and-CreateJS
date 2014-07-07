@@ -1,8 +1,8 @@
 # Step 2 – Shooting ball
 
-Prev Step – [Creating the world](//github.com/makzan/github-as-tutorial-take-2/tree/master/01-create-world)
+Prev Step – [Creating the world](//github.com/makzan/ball-machine-with-Box2D-and-Createjs/tree/master/01-create-world)
 
-Next Step – [Collision detection](//github.com/makzan/github-as-tutorial-take-2/tree/master/03-collision-detection)
+Next Step – [Collision detection](//github.com/makzan/ball-machine-with-Box2D-and-Createjs/tree/master/03-collision-detection)
 
 * * *
 

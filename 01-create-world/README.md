@@ -1,6 +1,6 @@
 # Step 1 – Creating the World
 
-Next step – [Shooting ball](//github.com/makzan/github-as-tutorial-take-2/tree/master/02-shooting-ball)
+Next step – [Shooting ball](//github.com/makzan/ball-machine-with-Box2D-and-Createjs/tree/master/02-shooting-ball)
 
 * * *
 
